@@ -1,0 +1,5 @@
+temp/
+*.screenshot
+code/routines/system/
+sqlPatterns/
+poms/code/routines/target/
